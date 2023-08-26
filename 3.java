@@ -1,4 +1,9 @@
-//3-Read array of 10 numbers and find Smallest, Largest, Second largest elements in the array
+/*
+ 3.Read an array of 10 or more numbers and write a program to find the
+ 1.Smallest element in the array
+ 2.Largest element in the array
+ 3.Second largest element in the array*/
+
 
 import java.util.Scanner;
 
