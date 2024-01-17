@@ -1,6 +1,4 @@
-//Write a program to find the sum, difference, product, quotient and remainder of two 
-
-numbers passed as command line argument.
+//Write a program to find the sum, difference, product, quotient and remainder of two numbers passed as command line argument.
     public static void main(String args[]) {
         int num1 = Integer.parseInt(args[0]);
         int num2 = Integer.parseInt(args[1]);
