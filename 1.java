@@ -1,5 +1,6 @@
-//Write a JavaScript program to perform find the area and circumference of a circle
-public class Arithmatics {
+//Write a program to find the sum, difference, product, quotient and remainder of two 
+
+numbers passed as command line argument.
     public static void main(String args[]) {
         int num1 = Integer.parseInt(args[0]);
         int num2 = Integer.parseInt(args[1]);
